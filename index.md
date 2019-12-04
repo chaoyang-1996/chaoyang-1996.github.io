@@ -1,10 +1,13 @@
 ## About Me
 
-My name is Chaoyang Zhai. I am pursuing my M.S degree in Control Science and Engineering at Beijing Institute of Technology.
+My name is Chaoyang Zhai. I am a student pursuing my M.S degree in Control Science and Engineering at Beijing Institute of Technology.
 
 ### Reaserch Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Autonomous Driving 
+Robotics
+Vision-aided Inertial Navigation System
+Multi-source Information Fusion
 
 ```markdown
 Syntax highlighted code block
