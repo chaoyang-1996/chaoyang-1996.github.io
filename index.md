@@ -1,7 +1,5 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/chaoyang-1996/chaoyang-1996.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 My name is Chaoyang Zhai. I am pursuing my M.S degree in Control Science and Engineering at Beijing Institute of Technology.
 
 ### Reaserch Interests
