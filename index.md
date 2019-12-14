@@ -31,6 +31,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [My Personal Page](https://chaoyang-1996.github.io).
 
 ### Publications
 
