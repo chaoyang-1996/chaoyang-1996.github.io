@@ -29,7 +29,3 @@ IEEE CSS Beijing Chapter Young Author Award Nomination
 _2018_
 
 Unmanned Ground System Challenge: Air-ground Synergy Group: **National First Prize**
-
-### Experience
-
-Teaching Assistant of Electronic Technique Experiment Course in BIT               Sept. 2018 - June. 2019
