@@ -10,7 +10,7 @@ Autonomous Driving, Robotics, Vision-aided Inertial Navigation System, Multi-sou
 
 #### A Robust Vision-Aided Inertial Navigation System for Unmanned Ground Vehicle Considering Camera Vibrations.
 
-#### An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
+#### An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.[PDF](https://www.sci-hub.shop/10.23919/chicc.2019.8865416)
 
 ![Image](result3.png)
 
