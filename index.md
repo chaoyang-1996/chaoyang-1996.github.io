@@ -20,4 +20,4 @@ For more details see [My Personal Page](https://chaoyang-1996.github.io).
 
 ### Awards
 
-2019  National Scholarship                                                      **Top 2% in BIT**
+_2019_   National Scholarship   **Top 2% in BIT**
