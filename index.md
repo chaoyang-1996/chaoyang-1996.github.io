@@ -14,9 +14,9 @@ Multi-source Information Fusion
 
 ### Publications
 
-1. A Robust Vision-Aided Inertial Navigation System for Unmanned Ground Vehicle Considering Camera Vibrations.
+1) A Robust Vision-Aided Inertial Navigation System for Unmanned Ground Vehicle Considering Camera Vibrations.
 
-2. An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
+2) An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
 
 For more details see [My Personal Page](https://chaoyang-1996.github.io).
 
