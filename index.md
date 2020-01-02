@@ -2,7 +2,7 @@
 
 My name is Chaoyang Zhai. I am a student pursuing my M.S degree in Control Science and Engineering at Beijing Institute of Technology.
 
-### Reaserch Interests
+## Reaserch Interests
 
 Autonomous Driving 
 
@@ -12,22 +12,22 @@ Vision-aided Inertial Navigation System
 
 Multi-source Information Fusion
 
-### Publications
+## Publications
 
-1) A Robust Vision-Aided Inertial Navigation System for Unmanned Ground Vehicle Considering Camera Vibrations.
+### A Robust Vision-Aided Inertial Navigation System for Unmanned Ground Vehicle Considering Camera Vibrations.
 
-2) An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
+### An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
 
 For more details see [My Personal Page](https://chaoyang-1996.github.io).
 
-### Awards
+## Awards
 
-_2019_   
+### 2019   
 
 National Scholarship: **Top 2% in BIT**
 
 IEEE CSS Beijing Chapter Young Author Award Nomination
 
-_2018_
+### 2018
 
 Unmanned Ground System Challenge: Air-ground Synergy Group: **National First Prize**
