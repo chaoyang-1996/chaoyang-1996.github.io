@@ -20,4 +20,14 @@ For more details see [My Personal Page](https://chaoyang-1996.github.io).
 
 ### Awards
 
-_2019_   National Scholarship   **Top 2% in BIT**
+_2019_   
+
+National Scholarship   **Top 2% in BIT**
+
+_2018_
+
+Unmanned Ground System Challenge: Air-ground Synergy Group   **National First Prize**
+
+### Experience
+
+Teaching Assistant of Electronic Technique Experiment Course in BIT               Sept. 2018 - June. 2019
