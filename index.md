@@ -18,7 +18,7 @@ Autonomous Driving, Robotics, Vision-aided Inertial Navigation System, Multi-sou
 
 <div style="width:1000px;">
         <div style="float:left; clear: both;" align="center">
-        <img src="result3.png" width="300" alt="" hspace="8"><br /> 图像标题
+        <img src="result3.png" width="300" alt="" hspace="8"><br /> 
         </div>
    An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
     </div>
