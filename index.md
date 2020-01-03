@@ -14,6 +14,10 @@ Autonomous Driving, Robotics, Vision-aided Inertial Navigation System, Multi-sou
 
 ![Image](result3.png)
 
+<center class="half">
+    <img src="result3.png" width="200"/>
+</center>
+
 For more details see [My Personal Page](https://chaoyang-1996.github.io).
 
 ## Awards
