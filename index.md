@@ -16,11 +16,11 @@ Autonomous Driving, Robotics, Vision-aided Inertial Navigation System, Multi-sou
     <img src="result3.png" width="300"/>
 </center>
 
-<div style="width:400px;">
+<div style="width:1000px;">
         <div style="float:left; clear: both;" align="center">
-        <img src="result3.png" width="120" alt="" hspace="8"><br /> 图像标题
+        <img src="result3.png" width="300" alt="" hspace="8"><br /> 图像标题
         </div>
-    CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局CSS文字环绕图片布局
+   An Integrated System Using Federated Kalman Filter for UGV Navigation in GNSS-denied Environment. Chinese Control Conference, 2019.
     </div>
 
 For more details see [My Personal Page](https://chaoyang-1996.github.io).
