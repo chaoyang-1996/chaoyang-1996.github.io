@@ -32,3 +32,6 @@ IEEE CSS Beijing Chapter Young Author Award Nomination
 Unmanned Ground System Challenge: Air-ground Synergy Group: **National First Prize**
 
 Intelligent Vehicle Future Challenge 2017: Elevated Expressway Group: **National First Prize**
+
+The 15th Challenge Cup National College Students’ Extracurricular Academic Science and Technology
+Works Contest: **National First Prize**
