@@ -19,6 +19,10 @@ Autonomous Driving, Robotics, Vision-aided Inertial Navigation System, Multi-sou
 
 For more details see [[PDF]](https://www.sci-hub.shop/10.23919/chicc.2019.8865416)
 
+## Projects
+
+### robust vision-aided inertial system
+
 ## Awards
 
 ### 2019   
